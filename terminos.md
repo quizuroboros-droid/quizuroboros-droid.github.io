@@ -1,7 +1,9 @@
 ---
-title: Términos del servicio · Terms of Service
+title: "Términos del servicio · Terms of Service — Uroboros: Snake Adventure"
 permalink: /terminos/
 ---
+
+[← Todas las apps / All apps]({{ '/' | relative_url }})
 
 # Términos del servicio — Uroboros: Snake Adventure / Terms of Service — Uroboros: Snake Adventure
 

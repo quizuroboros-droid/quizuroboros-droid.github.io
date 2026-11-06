@@ -1,7 +1,9 @@
 ---
-title: Política de privacidad · Privacy Policy
+title: "Política de privacidad · Privacy Policy — Uroboros: Snake Adventure"
 permalink: /privacidad/
 ---
+
+[← Todas las apps / All apps]({{ '/' | relative_url }})
 
 # Política de privacidad — Uroboros: Snake Adventure
 
