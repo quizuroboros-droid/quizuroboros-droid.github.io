@@ -20,5 +20,6 @@ Apps y juegos para Android · Android apps and games
 | **Glotones por Tailandia · Gluttons in Thailand** | Guía · Guide | [Privacidad / Privacy](glotones-tailandia/privacidad/) · [Términos / Terms](glotones-tailandia/terminos/) |
 | **Puzzle Uroboros: Aprende Kanji · Learn Kanji** | Educación · Education | [Privacidad / Privacy](aprende-kanji/privacidad/) · [Términos / Terms](aprende-kanji/terminos/) |
 | **Puzzle Uroboros: Tailandés · Thai** | Educación · Education | [Privacidad / Privacy](aprende-tailandes/privacidad/) · [Términos / Terms](aprende-tailandes/terminos/) |
+| **QuiZ Uroboros: Aprende Idiomas** | Educación · Education | [Privacidad / Privacy](https://gist.github.com/quizuroboros-droid/3b5275cd4a73bb5ba1a638ec7c99f9c9) · [Términos / Terms](https://gist.github.com/quizuroboros-droid/6a0c38dd381ce5b78b1940553e1e35e0) |
 
 Contacto / Contact: **quizuroboros@gmail.com**
