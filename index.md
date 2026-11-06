@@ -15,7 +15,7 @@ Apps y juegos para Android · Android apps and games
 | **Uroboros: Snake Adventure** | Juego · Game | [Privacidad / Privacy](snake-adventure/privacidad/) · [Términos / Terms](snake-adventure/terminos/) |
 | **Zombarricade: Zombie Defense** | Juego · Game | [Privacidad / Privacy](zombarricade/privacidad/) · [Términos / Terms](zombarricade/terminos/) |
 | **Crow & Gems** | Juego · Game | [Privacidad / Privacy](crow-gems/privacidad/) |
-| **Games Uroboros: Board Classics** | Juegos de mesa · Board games | [Privacidad / Privacy](board-classics/privacidad/) |
+| **Games Uroboros: Board Classics** | Juegos de mesa · Board games | [Privacidad / Privacy](board-classics/privacidad/) · [Términos / Terms](board-classics/terminos/) |
 | **Aventura en Tailandia · Thailand Adventure** | Juego · Game | [Privacidad / Privacy](aventura-tailandia/privacidad/) · [Términos / Terms](aventura-tailandia/terminos/) |
 | **Glotones por Tailandia · Gluttons in Thailand** | Guía · Guide | [Privacidad / Privacy](glotones-tailandia/privacidad/) · [Términos / Terms](glotones-tailandia/terminos/) |
 | **Puzzle Uroboros: Aprende Kanji · Learn Kanji** | Educación · Education | [Privacidad / Privacy](aprende-kanji/privacidad/) · [Términos / Terms](aprende-kanji/terminos/) |
