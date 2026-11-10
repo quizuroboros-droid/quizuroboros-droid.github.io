@@ -16,6 +16,8 @@ Apps y juegos para Android · Android apps and games
 | **Zombarricade: Zombie Defense** | Juego · Game | [Privacidad / Privacy](zombarricade/privacidad/) · [Términos / Terms](zombarricade/terminos/) |
 | **Crow & Gems** | Juego · Game | [Privacidad / Privacy](crow-gems/privacidad/) · [Términos / Terms](crow-gems/terminos/) |
 | **Star Drifter: Naves Espaciales · Space Shooter** | Juego · Game | [Privacidad / Privacy](star-drifter/privacidad/) · [Términos / Terms](star-drifter/terminos/) |
+| **Uroboros Tangram** | Juego · Game | [Privacidad / Privacy](tangram/privacidad/) · [Términos / Terms](tangram/terminos/) |
+| **Kakuro Uroboros** | Juego · Game | [Privacidad / Privacy](kakuro/privacidad/) · [Términos / Terms](kakuro/terminos/) |
 | **Snaketure Island** | Juego · Game | [Privacidad / Privacy](snaketure-island/privacidad/) · [Términos / Terms](snaketure-island/terminos/) |
 | **Games Uroboros: Board Classics** | Juegos de mesa · Board games | [Privacidad / Privacy](board-classics/privacidad/) · [Términos / Terms](board-classics/terminos/) |
 | **Aventura en Tailandia · Thailand Adventure** | Juego · Game | [Privacidad / Privacy](aventura-tailandia/privacidad/) · [Términos / Terms](aventura-tailandia/terminos/) |
